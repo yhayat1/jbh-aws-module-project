@@ -89,7 +89,7 @@ $env:AWS_SECRET_ACCESS_KEY="YOUR_SECRET"
 ### 5. Run the Application
 
 ``` bash
-python app.py
+python python/app.py
 ```
 
 Then open <http://127.0.0.1:5001> in your browser.
